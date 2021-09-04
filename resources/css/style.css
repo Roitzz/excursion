@@ -15,7 +15,7 @@ body{
 .header--h4{
     color:gray;
     font-size: 21px;
-    
+
 
 }
 
@@ -30,5 +30,11 @@ body{
     font-size: 16px;
     color: aquamarine;
 
+}
+
+.link--exc{
+    font-size: 16px;
+    color: gray;
+    text-align: right;
 }
 
